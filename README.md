@@ -1,3 +1,4 @@
-# Steam Switch
+# Steam-Switch
 
-Cambia la carpeta de STEAM de Spectasonics
+
+Change local STEAM dir to external STEAM dir for spectrasonics
