@@ -20,3 +20,5 @@ else
     mv ~/Library/Application\ Support/Spectrasonics/STEAM-LOCAL ~/Library/Application\ Support/Spectrasonics/STEAM
 
 fi
+
+exit
